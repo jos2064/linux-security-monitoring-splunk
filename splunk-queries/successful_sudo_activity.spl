@@ -1,1 +1,3 @@
-
+index=* sudo
+| search "session opened for user root"
+| stats count
