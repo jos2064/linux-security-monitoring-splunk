@@ -1,1 +1,3 @@
-
+index=* sourcetype=linux_secure
+| search "Failed password" OR "authentication failure"
+| stats count
