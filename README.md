@@ -36,7 +36,6 @@ Alerts were configured and tested for:
 - `splunk-queries/` – SPL queries used for detections and correlation
 - `dashboards/` – Dashboard screenshots
 - `alerts/` – Alert trigger evidence
-- `screenshots/` – Individual detection panel screenshots
 
 ## Notes
 This project was implemented in a controlled lab environment for learning
