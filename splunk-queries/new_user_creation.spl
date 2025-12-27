@@ -1,1 +1,2 @@
 index=* useradd
+| stats count
