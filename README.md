@@ -37,6 +37,4 @@ Alerts were configured and tested for:
 - `alerts/` – Alert trigger evidence
 
 ## Notes
-This project was implemented in a controlled lab environment for learning
-and validation purposes. It reflects SOC workflows such as log analysis,
-alert validation, and incident correlation.
+This project was implemented in a controlled lab environment to simulate real-world SOC workflows, including log analysis, alert validation, and incident correlation.
