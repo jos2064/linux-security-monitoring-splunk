@@ -1,9 +1,8 @@
 # Linux Security Monitoring & Incident Detection using Splunk
 
-This project demonstrates a SOC-style security monitoring solution for
-Linux systems using Splunk Cloud. The focus is on detecting suspicious
-authentication behavior, sudo abuse, user creation events, and
-correlated privilege escalation activity.
+This project implements a SOC-style security monitoring and detection solution for Linux systems using Splunk Cloud.
+
+It focuses on identifying suspicious authentication activity, sudo misuse, unauthorized user creation, and correlated privilege escalation patterns through log analysis, dashboards, and alerts.
 
 ## Project Objectives
 - Monitor Linux authentication and sudo activity
